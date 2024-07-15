@@ -1,0 +1,29 @@
+# CryptoEducator
+
+## Overview
+
+CryptoEducator is a comprehensive platform designed to educate individuals about cryptocurrencies and blockchain technology. This project provides tutorials, articles, interactive courses, and resources to help beginners and advanced users understand the intricacies of the crypto world.
+
+## Features
+
+- **Educational Articles**: In-depth articles covering various topics related to cryptocurrencies and blockchain.
+- **Interactive Tutorials**: Step-by-step tutorials for hands-on learning and practical experience.
+- **Video Courses**: Curated video content for visual learners to grasp complex concepts easily.
+- **Quizzes and Assessments**: Test your knowledge with quizzes and assessments after each lesson.
+- **Community Forum**: Engage with a community of learners, ask questions, and share knowledge.
+- **Regular Updates**: Stay updated with the latest trends, news, and advancements in the crypto world.
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/) (version 14 or later)
+- [npm](https://www.npmjs.com/) (version 6 or later)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/CryptoEducator.git
+   cd CryptoEducator
